@@ -1,0 +1,11 @@
+Space,Count,Area per unit,Width,Category colour
+Classroom (60 seater),8,125,5,#FCE49F
+Laboratory (30 workstations),5,200,5,#A7E8BD
+Lecture Hall (120 seats),2,400,8,#FFB3BA
+Conference Room (20 people),10,100,4,#BFFCC6
+Computer Lab (40 PCs),3,180,6,#D8BFD8
+Library Reading Area (50 seats),4,150,7,#F0E68C
+Art Studio (25 easels),6,175,5,#98FB98
+Music Practice Room (5 people),15,50,3,#DDA0DD
+Auditorium (200 seats),1,600,9,#87CEFA
+Cafeteria (100 seats),3,300,7,#FFDAB9
